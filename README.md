@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/iamcatobot-text2sim-mcp-server-badge.png)](https://mseep.ai/app/iamcatobot-text2sim-mcp-server)
+
 ![Header Image](assets/text2sim_mcp_github.png)
 
 # **Text2Sim MCP Server**  
