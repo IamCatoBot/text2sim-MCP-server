@@ -1,8 +1,8 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://pysd.org/schemas/abstract-model/v2.0.0",
-  "title": "PySD Abstract Model Schema (Draft 2020-12)",
-  "description": "JSON Schema for PySD's abstract model representation, equivalent to the Python dataclass structure using Draft 2020-12",
+  "$id": "https://github.com/IamCatoBot/text2sim-MCP-server/blob/main/schemas/SD/abstract_model_v2.json",
+  "title": "PySD-compatible Abstract Model Schema (Draft 2020-12)",
+  "description": "JSON Schema compatible with PySD's abstract model representation, equivalent to the Python dataclass structure using Draft 2020-12",
   "type": "object",
   "properties": {
     "abstractModel": {
